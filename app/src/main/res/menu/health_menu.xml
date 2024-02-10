@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/option1_1" android:title="alcohol-cocktail" />
+    <item android:id="@+id/option1_2" android:title="alcohol-free" />
+    <item android:id="@+id/option1_3" android:title="celery-free" />
+    <item android:id="@+id/option1_4" android:title="crustancean-free" />
+    <item android:id="@+id/option1_5" android:title="dairy-free" />
+    <item android:id="@+id/option1_6" android:title="DASH" />
+    <item android:id="@+id/option1_7" android:title="egg-free" />
+    <item android:id="@+id/option1_8" android:title="fish-free" />
+    <item android:id="@+id/option1_9" android:title="fodmap-free" />
+    <item android:id="@+id/option1_10" android:title="gluten-free" />
+    <item android:id="@+id/option1_11" android:title="immuno-supportive" />
+    <item android:id="@+id/option1_12" android:title="kato-friendly" />
+    <item android:id="@+id/option1_13" android:title="kidney-friendly" />
+    <item android:id="@+id/option1_14" android:title="kosher" />
+    <item android:id="@+id/option1_15" android:title="low-fat-abs" />
+    <item android:id="@+id/option1_16" android:title="low-potassium" />
+    <item android:id="@+id/option1_17" android:title="low-sugar" />
+    <item android:id="@+id/option1_18" android:title="lupine-free" />
+    <item android:id="@+id/option1_19" android:title="Mediterranean" />
+    <item android:id="@+id/option1_20" android:title="mollusk-free" />
+    <item android:id="@+id/option1_21" android:title="mustard-free" />
+    <item android:id="@+id/option1_22" android:title="no-oil-added" />
+    <item android:id="@+id/option1_23" android:title="paleo" />
+    <item android:id="@+id/option1_24" android:title="peanut-free" />
+    <item android:id="@+id/option1_25" android:title="pescatarian" />
+    <item android:id="@+id/option1_26" android:title="pork-free" />
+    <item android:id="@+id/option1_27" android:title="red-meat-free" />
+    <item android:id="@+id/option1_28" android:title="shellfish-free" />
+    <item android:id="@+id/option1_29" android:title="soy-free" />
+    <item android:id="@+id/option1_30" android:title="sugar-conscious" />
+    <item android:id="@+id/option1_31" android:title="sulfite-free" />
+    <item android:id="@+id/option1_32" android:title="tree-nut-free" />
+    <item android:id="@+id/option1_33" android:title="vegan" />
+    <item android:id="@+id/option1_34" android:title="vegetarian" />
+    <item android:id="@+id/option1_35" android:title="wheat-free" />
+
+</menu>

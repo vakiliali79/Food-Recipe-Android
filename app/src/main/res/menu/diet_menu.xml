@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/option_1"
+        android:title="Balanced" />
+    <item android:id="@+id/option_2"
+        android:title="High-Fiber" />
+    <item android:id="@+id/option_3"
+        android:title="High-Protein" />
+    <item android:id="@+id/option_4"
+        android:title="Low-Carbs" />
+    <item android:id="@+id/option_5"
+        android:title="Low-Fat" />
+    <item android:id="@+id/option_6"
+        android:title="Low-Sodium" />
+</menu>
