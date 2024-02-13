@@ -1,5 +1,3 @@
-
-```markdown
 # Food Recipe
 
 Discover a world of delicious recipes tailored to your preferences with the Recipe Explorer app. This Android Kotlin application offers a diverse range of filters, allowing users to find the perfect dish based on dietary needs, preparation time, and serving size. From low-fiber and high-protein to low-fat options, the app provides over 40 filters to customize your recipe search.
