@@ -10,7 +10,10 @@ Discover a world of delicious recipes tailored to your preferences with the Reci
 
 ## Installation and Execution
 
+[Download APK](https://raw.githubusercontent.com/vakiliali79/Food-Recipe-Android/master/food-recipe.apk)
+
 To install and run the Recipe Explorer app, follow these steps:
+
 
 1. Clone the project:
    ```bash
